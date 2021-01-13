@@ -1,4 +1,4 @@
-This is a project from the course ECSE321 at McGill.
+This is a project from the course ECSE321 in the Fall of 2019 at McGill.
 
 Contributors to this project are:
 Trevor Tabah,
