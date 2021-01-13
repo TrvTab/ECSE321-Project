@@ -1,10 +1,10 @@
 This is a project from the course ECSE321 at McGill.
 
 Contributors to this project are:
-Trevor Tabah
-Jeremy Chow
-Chad Spector
-Daniel Bensoussan
+Trevor Tabah,
+Jeremy Chow,
+Chad Spector,
+Daniel Bensoussan,
 Daniel Kronish
 
 
