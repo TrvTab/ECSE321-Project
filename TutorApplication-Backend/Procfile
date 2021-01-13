@@ -1,0 +1,2 @@
+web: java -jar TutorApplication-Backend/build/libs/TutorApplication-Backend-0.0.1-SNAPSHOT.jar
+
